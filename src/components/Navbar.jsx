@@ -61,7 +61,7 @@ export default function Navbar({ isScrolled }) {
           {/* CTA Button (Desktop) */}
           <div className="hidden md:block">
             <a
-              href="https://wa.me/62xxxxxxxxxxxx"
+              href="https://wa.me/6287832001731"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-glow px-6 py-2 bg-gradient-to-r from-primary-600 to-secondary-600 text-white rounded-lg hover:shadow-lg hover:shadow-primary-600/50 transition-all"
@@ -99,7 +99,7 @@ export default function Navbar({ isScrolled }) {
                 </button>
               ))}
               <a
-                href="https://wa.me/62xxxxxxxxxxxx"
+                href="https://wa.me/6287832001731"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full text-center px-4 py-2 bg-primary-600 text-white rounded hover:bg-primary-700"
